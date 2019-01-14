@@ -1,0 +1,16 @@
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\AnimalFeedingCalculator.dll
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\bin\Debug\netcoreapp2.1\AnimalFeedingCalculator.pdb
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Test apps\AnimalFeedingCalculator\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb

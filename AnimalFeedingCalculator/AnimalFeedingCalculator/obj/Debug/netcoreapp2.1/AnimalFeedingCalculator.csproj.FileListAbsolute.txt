@@ -1,0 +1,11 @@
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\bin\Debug\netcoreapp2.1\AnimalFeedingCalculator.deps.json
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\bin\Debug\netcoreapp2.1\AnimalFeedingCalculator.runtimeconfig.json
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\bin\Debug\netcoreapp2.1\AnimalFeedingCalculator.runtimeconfig.dev.json
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\bin\Debug\netcoreapp2.1\AnimalFeedingCalculator.dll
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\bin\Debug\netcoreapp2.1\AnimalFeedingCalculator.pdb
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\obj\Debug\netcoreapp2.1\AnimalFeedingCalculator.csproj.CoreCompileInputs.cache
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\obj\Debug\netcoreapp2.1\AnimalFeedingCalculator.AssemblyInfoInputs.cache
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\obj\Debug\netcoreapp2.1\AnimalFeedingCalculator.AssemblyInfo.cs
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\obj\Debug\netcoreapp2.1\AnimalFeedingCalculator.dll
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\obj\Debug\netcoreapp2.1\AnimalFeedingCalculator.pdb
+C:\Test apps\AnimalFeedingCalculator\AnimalFeedingCalculator\obj\Debug\netcoreapp2.1\AnimalFeedingCalculator.csprojResolveAssemblyReference.cache
